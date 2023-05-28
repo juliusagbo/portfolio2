@@ -24,13 +24,7 @@
     flex-wrap:wrap ;
   }
   
-  .ourlogo img{
-    width: 65px;
-    float: left;
-    padding-left: 5%;
-    padding-top: 2%;
-    border-radius: 50%;
-  }
+  
   
   nav ul li{
     display: inline-block;
