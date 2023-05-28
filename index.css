@@ -303,3 +303,22 @@ html{
   .wababet{
   color: black;
   }
+  .h{
+    height: 50px;
+    width: 50px;
+  }
+ .grow{
+  transition: all .2s ease-out;
+  width: 100%;
+ }
+ .grow:hover{
+  transform: scale(1.5);
+ }
+ .sd{
+  color: whitesmoke;
+ 
+ }
+ .sd:hover{
+  color: black;
+  
+ }
